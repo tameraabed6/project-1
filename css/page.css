@@ -117,18 +117,7 @@ background-color:rgb(33,140,116) ;
     margin-left: 700px;
 }
 .skill{
-    margin-left: 25%;
-    display: flex;
-   
-}
-.skill-title{
-    border: 1px solid #000;
-    background-color: rgb(66, 45, 183);
-    height: 20px;
-    width: 450px;
-    padding: 1px;
-    margin-left: 30px;
-    margin-bottom: 50px;
+    margin-left: 400px;
 }
 .footer{
     background-color: #000;
